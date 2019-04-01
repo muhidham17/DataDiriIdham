@@ -1,1 +1,5 @@
-
+Nama      : Muh. Idham Herman
+NIM       : 1829142011
+Kelas     : Tekom B
+Prodi     : Teknik Komputer
+Kota Asal : Kota Makassar
